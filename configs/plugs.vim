@@ -1,8 +1,9 @@
 call plug#begin()
 
 " highlight syntax
-Plug 'sheerun/vim-polyglot'
+Plug 'neoclide/coc.nvim', {'branch': 'release'}
 
 call plug#end()
 
 colorscheme onedark
+

@@ -5,3 +5,10 @@ set cursorline
 set clipboard=unnamed
 set hidden
 set termguicolors
+set expandtab
+set tabstop=4
+set shiftwidth=4
+set softtabstop=4
+set updatetime=100
+set fileencodings=utf-8,gbk,gb2312
+set termencoding=utf-8

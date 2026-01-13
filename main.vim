@@ -2,7 +2,7 @@
 set nocompatible
 filetype off
 
-let custom_configs = ['basic', 'netrw', 'plugs']
+let custom_configs = ['basic', 'netrw', 'plugs', 'coc.nvim']
 
 if has('win32') || has('win64')
   let g:config_dir = $HOME . '/vimfiles/configs'
